@@ -6,4 +6,5 @@ for i in range(len(a)):
         print(i)
 b = 'hi'
 c = 'hello'
+d = 'welcome to deployment'
 
